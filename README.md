@@ -1,1 +1,1 @@
-Retextures magenta glazed terracotta.
+new repository: https://github.com/Sage-Axolotl/Sages-Packs
